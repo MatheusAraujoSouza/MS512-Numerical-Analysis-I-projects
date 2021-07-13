@@ -30,4 +30,9 @@ Exemple of matrix A(7 x 7):
 
 <img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/matrixA.png" width="600" height="250"/> 
 
+3)Assuming that the LU factorization of A ∈ IRn × n is well defined, show that the envelope of L (by rows) is equal to the envelope of the lower triangular part of A, and that the envelope of U (by columns) coincides with the envelope from the upper triangular portion of A.
+
+4)Expand the scope of the previous item, assuming now partial pivoting, so that PA = LU, where P ∈ IRn × n permutation matrix. Assuming the matrix P is known, show that the result of the previous item applies to the envelopes of L and U, with respect to the envelopes of the lower and upper triangular portions of PA, respectively.
+
+
 ## Project II 
