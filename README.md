@@ -47,7 +47,9 @@ following strength settings:
   
 <p align="center">
 <img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/forces%20.png"/> 
+
+The results for the proposed problems can be found in:
   
-  
+https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/Project%201/Relatório_Projeto_1.pdf
   
 ## Project II 
