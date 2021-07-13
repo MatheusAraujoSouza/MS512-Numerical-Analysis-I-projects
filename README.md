@@ -18,7 +18,8 @@ Fábio Paiva
 The objective of this project is to visualize the behavior of sparse matrices, which have a large amount of null inputs, effectively. To do this, we look at a way to store arrays in memory in a way that reduces the space used by the program, called envelopes.
 
 example of storing the envelope in a triangular matrix:
-<img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/captura1.png" width="1600" height="200"/> 
+<p align="center">
+<img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/captura1.png" width="700" height="200"/> 
 
 Once the method is understood, we sought with this project to answer the following questions:
 
