@@ -38,8 +38,16 @@ Exemple of matrix A(7 x 7):
 
 5)To solve the system Ax = b, assume that the permutation matrix P is known a priori, so you will work with P Ax = Pb. Adapt the Gauss elimination algorithm studied in Numerical Calculus to construct the factors L and U such that PA = LU, working with the envelopes of the lower (by rows) and upper (by columns) triangular portions of P A. The triangular matrices L and U must be stored in envelopes, oriented by rows and columns, respectively.
 
+6)The following figure shows a flat structure, called a truss, with 13 bars (numbered as indicated), connected by 8 nodes (numbered with circles). There are loads (in tons) applied to nodes 2, 5 and 6, and the objective is to determine the forces acting on each of the truss bars.
 
+<p align="center">
+<img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/estrutura.png"/> 
 
-
-
+following strength settings:
+  
+<p align="center">
+<img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/forces%20.png"/> 
+  
+  
+  
 ## Project II 
