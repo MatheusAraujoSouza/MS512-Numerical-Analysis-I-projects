@@ -26,6 +26,8 @@ Once the method is understood, we sought with this project to answer the followi
 
 2)For matrix A, specify the column-oriented envelope for its upper triangular portion and the row-oriented envelope for its lower triangular portion, making, in this second case, the necessary adaptations in the definition and in the index vectors corresponding to the rows and columns.
 
+Exemple of matrix A(7 x 7): 
 
+<img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/matrixA.png" width="600" height="250"/> 
 
 ## Project II 
