@@ -20,6 +20,9 @@ The objective of this project is to visualize the behavior of sparse matrices, w
 example of storing the envelope in a triangular matrix:
 <img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/captura1.png" width="1600" height="250"/> 
 
+Once the method is understood, we sought with this project to answer the following questions:
+
+1)write an algorithm to solve the linear system Ux = b, U ∈ IR ^ (n × n), b ∈ IRn by reverse substitution assuming the matrix U is upper triangular and stored according to the column envelope structure
 
 
 ## Project II 
