@@ -58,6 +58,7 @@ In order to solve and test the solutions of various methods of least squares (QM
   
 investigation will be done as:
   
- 1) In order to approximate the curve f (x) = exp (sin (6x)) in the interval [0, 1] by a polynomial of degree 10, consider points equally spaced x  xk = kh, k = 0, 1, . . . , 20 (h = 0.05)
+ 1) In order to approximate the curve f(x) = exp (sin (6x)) in the interval [0, 1] by a polynomial of degree 10, consider points equally spaced xk = kh, k = 0, 1, . . . , 20 (h = 0.05)
+where the 11 unknowns will be the coefficients c0, c1,. . . , c10 of the approximate polynomial. The matrix of coefficients for this problem is known as the Vandermonde matrix.
 
 
