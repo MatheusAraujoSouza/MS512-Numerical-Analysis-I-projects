@@ -13,7 +13,7 @@ Daysa Silva
 Fábio Paiva
 
 
-## Projetc I
+## Project I
 
 The objective of this project is to visualize the behavior of sparse matrices, which have a large amount of null inputs, effectively. To do this, we look at a way to store arrays in memory in a way that reduces the space used by the program, called envelopes.
 
