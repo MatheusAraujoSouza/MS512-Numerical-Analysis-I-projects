@@ -55,5 +55,9 @@ https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/m
 ## Project II 
   
 In order to solve and test the solutions of various methods of least squares (QM) problems, methods such as normal equations by factorization Cholesky, factorization QR condensed by process of Gram-Schmidt and factorization QR complete using transformations of Householder.
+  
+investigation will be done as:
+  
+ 1) In order to approximate the curve f (x) = exp (sin (6x)) in the interval [0, 1] by a polynomial of degree 10, consider points equally spaced x  xk = kh, k = 0, 1, . . . , 20 (h = 0.05)
 
 
