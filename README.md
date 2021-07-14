@@ -65,7 +65,8 @@ investigation will be done as:
 <p align="center">
 <img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/Project%202/incendios%20.png"/> 
 
-
+to perform the fit using the QM method, we need to work with the fast Fourier transform (FFT):
+  
 <p align="center">
 <img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/Project%202/Realfft.png"/> 
   
