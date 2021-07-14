@@ -53,3 +53,7 @@ The results for the proposed problems can be found in:
 https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/Project%201/Relatório_Projeto_1.pdf
   
 ## Project II 
+  
+In order to solve and test the solutions of various methods of least squares (QM) problems, methods such as normal equations by factorization Cholesky, factorization QR condensed by process of Gram-Schmidt and factorization QR complete using transformations of Householder.
+
+
