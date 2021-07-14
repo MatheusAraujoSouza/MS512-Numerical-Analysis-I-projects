@@ -60,8 +60,16 @@ investigation will be done as:
   
 * In order to approximate the curve f(x) = exp (sin (6x)) in the interval [0, 1] by a polynomial of degree 10, consider points equally spaced xk = kh, k = 0, 1, . . . , 20 (h = 0.05) where the 11 unknowns will be the coefficients c0, c1,. . . , c10 of the approximate polynomial. The matrix of coefficients for this problem is known as the Vandermonde matrix. Other analyzes were done as stability and processing time.
   
+ 
+  
+<p align="center">
+<img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/Project%202/incendios%20.png"/> 
 
 
-
-
+<p align="center">
+<img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/Project%202/Realfft.png"/> 
+  
+  
+<p align="center">
+<img src="https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/Project%202/imgfft.png"/> 
 
