@@ -76,6 +76,6 @@ to perform the fit using the QM method, we need to work with the fast Fourier tr
   
 The results of the proposed investigation can be found at:
   
-https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/Project%202/MS512___Num_rica___Projetos%20(2).pdf
+https://github.com/MatheusAraujoSouza/MS512-Numerical-Analysis-I-projects/blob/main/Project%202/MS512___Num_rica___Projetos%20(3).pdf
   
 
